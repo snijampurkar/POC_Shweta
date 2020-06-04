@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44821" started-at="2020-06-04T16:12:38 IST" finished-at="2020-06-04T16:13:23 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44821" started-at="2020-06-04T16:12:38 IST" finished-at="2020-06-04T16:13:23 IST">
+      <class name="com.qa.tests.LandingPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.LandingPageTest@436e852b]" name="setUp" is-config="true" duration-ms="15947" started-at="2020-06-04T16:12:38 IST" finished-at="2020-06-04T16:12:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LandingpageLogTest()[pri:0, instance:com.qa.tests.LandingPageTest@436e852b]" name="LandingpageLogTest" duration-ms="111" started-at="2020-06-04T16:12:54 IST" finished-at="2020-06-04T16:12:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LandingpageLogTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.tests.LandingPageTest@436e852b]" name="teardown" is-config="true" duration-ms="762" started-at="2020-06-04T16:12:54 IST" finished-at="2020-06-04T16:12:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.LandingPageTest@436e852b]" name="setUp" is-config="true" duration-ms="11914" started-at="2020-06-04T16:12:55 IST" finished-at="2020-06-04T16:13:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LandingpageTitleTest()[pri:0, instance:com.qa.tests.LandingPageTest@436e852b]" name="LandingpageTitleTest" duration-ms="9" started-at="2020-06-04T16:13:07 IST" finished-at="2020-06-04T16:13:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LandingpageTitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.tests.LandingPageTest@436e852b]" name="teardown" is-config="true" duration-ms="706" started-at="2020-06-04T16:13:07 IST" finished-at="2020-06-04T16:13:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.LandingPageTest@436e852b]" name="setUp" is-config="true" duration-ms="14575" started-at="2020-06-04T16:13:07 IST" finished-at="2020-06-04T16:13:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="openElementsPageTest()[pri:0, instance:com.qa.tests.LandingPageTest@436e852b]" name="openElementsPageTest" duration-ms="1" started-at="2020-06-04T16:13:22 IST" finished-at="2020-06-04T16:13:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openElementsPageTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.tests.LandingPageTest@436e852b]" name="teardown" is-config="true" duration-ms="758" started-at="2020-06-04T16:13:22 IST" finished-at="2020-06-04T16:13:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.tests.LandingPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
